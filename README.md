@@ -1,5 +1,5 @@
 # sigma-notation
-Sigma Notation with VHDL
+Sigma notation with VHDL
 ### Description
 This will compute sigma(xi * yi)
 ### Screenshot
